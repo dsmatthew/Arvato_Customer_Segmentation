@@ -17,6 +17,17 @@ Used special packages:
 * h2o v3.30.0.7 (auto machine learning library - https://pypi.org/project/h2o/)
 * kneebow v0.1.1 (exctracting the optimal value by elbow strategy - https://pypi.org/project/kneebow/)
 
+Used libraries:
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* scipy
+* sklearn
+* pickle
+
+# magic word for producing visualizations in notebook
+%matplotlib inline
 
 ## Project Motivation<a name="motivation"></a>
 
