@@ -26,9 +26,6 @@ Used libraries:
 * sklearn
 * pickle
 
-# magic word for producing visualizations in notebook
-%matplotlib inline
-
 ## Project Motivation<a name="motivation"></a>
 
 Arvato published data sets to find machine learning model for predicting which customers is more likely to respond to the selected campaign.
