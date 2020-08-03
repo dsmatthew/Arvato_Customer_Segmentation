@@ -1,4 +1,4 @@
-# Arvato_Customer_Segmentation
+# Arvato Customer Segmentation (Udacity Nanodegree Capstone project)
 Project about the Kaggle challange in corporation with Udacity
 
 ### Table of Contents
@@ -48,7 +48,7 @@ All data sets are provided by Arvato (via Kaggle) in corporation with Udacity (w
 
 ## Results<a name="results"></a>
 
-The findings to the previously defined business questions are discussed in this [blogpost on medium](http://google.com)
+The findings to the previously defined business questions are discussed in this [blogpost on medium](https://medium.com/@MatthiasSchroeder/arvato-customer-segmentation-report-1dd848df6f86)
 
 Short conclusion:
 The given data sets are analyzed using data analytics methodologies. In the first part several findings about the two data sets (general population sample compared to customers data set) lead to the clustering into 14 clusters. On basis of these findings, a supervised model is built. The model performance should be improved in future iterations. These could be:
